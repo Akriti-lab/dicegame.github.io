@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Acme', sans-serif;
+}
+body{
+	background-color: 	 #ffffe6;
+}
+.container{
+	width: 70%
+	margin: auto;
+	text-align: center;
+
+}
+.dice{
+	display: inline-block;
+
+}
+h1{
+	margin: 30px;
+	text-shadow: 5px 5px brown;
+	font-size: 6rem;
+	color: #f6b93b;
+}
+p{
+	margin: 30px;
+	text-shadow: 2px 2px brown;
+	font-size: 3rem;
+	color: #00b894;
+}
+button{
+	border-radius: 2px;
+	border: none;
+	height: 40px;
+	width: 80px;
+	background-color: lightblue;
+}
+img{
+	width: 80%;
+}
